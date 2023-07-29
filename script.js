@@ -1,1 +1,1 @@
-const toggleIcon = document.querySelector('.toggle-icon');
+// const toggleIcon = document.querySelector('.toggle-icon');
